@@ -1,0 +1,12 @@
+# Compiled Object files
+*.class
+
+# Compiled Bundle files
+*.jar
+*.war
+
+# Generated Stuff
+*.manifest
+
+# Ignore Eclipse stuff
+*.project
